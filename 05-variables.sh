@@ -1,7 +1,8 @@
 #!/bin/bash
 
-A=3
-B=4
-C=5
-sum=($A+$B+$C)
+A=$1
+B=$2
+C=$3
+sum=[$A+$B+$C]
 
+echo "sum of $A,$B and $C is : sum"
