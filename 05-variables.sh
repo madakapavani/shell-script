@@ -1,11 +1,9 @@
 #!/bin/bass
 
-echo "Please enter your name::"
-read -s USERNAME
+echo "Please enter your name"
  
-echo "username entered: $USERNAME"
+echo "username entered"
 
 echo "please enter your password"
-read -s PASSWORD
 
-echo "password entered: $PASSWORD"
+echo "password entered"
